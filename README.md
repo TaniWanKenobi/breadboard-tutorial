@@ -5,7 +5,7 @@
 
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~3 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~3.1 hours of work.
 
 
 
@@ -21,7 +21,7 @@ The circuit is captured in `breadboard-project.json`, and the firmware that runs
 
 ## How To Use It
 
-r r geewg egte
+fef ef  fe fe fe ef
 
 
 ## Demo
@@ -59,7 +59,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 3h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 3.1h of work*
 
 
 
