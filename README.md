@@ -21,7 +21,7 @@ The circuit is captured in `breadboard-project.json`, and the firmware that runs
 
 ## How To Use It
 
-fef ef  fe fe fe efef fe
+this is how to use ur projecct
 
 
 ## Demo
