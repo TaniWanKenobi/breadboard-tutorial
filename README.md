@@ -2,10 +2,10 @@
 
 
 
+![Breadboard tutorial](screenshot.png)
 
 
-
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~4.3 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~4.5 hours of work.
 
 
 
@@ -26,7 +26,8 @@ fef ef  fe fe fe efef fe
 
 ## Demo
 
-- **Try it:** [https://taniwankenobi.github.io/breadboard-plays/p/61/](https://taniwankenobi.github.io/breadboard-plays/p/61/)
+- **Simulate it live:** [https://breadboard.hackclub.com/share/61](https://breadboard.hackclub.com/share/61), runs the firmware in the Breadboard simulator
+- **View the design:** [https://taniwankenobi.github.io/breadboard-plays/p/61/](https://taniwankenobi.github.io/breadboard-plays/p/61/)
 
 
 ## Schematic
@@ -59,7 +60,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 4.3h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 4.5h of work*
 
 
 
